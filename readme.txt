@@ -1,34 +1,3 @@
------------------------
-# README
------------------------
-CarVilla is a one page bootstrap 3 based Car Dealer Automotive website template.
-
-
-Template Info:
------------------------
-Name: 		CarVilla - Free Bootstrap One Page Car Dealer Automotive website template
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
-
-
-Changelog:
------------------------
-Version 1.0 13-06-2018
-- initial release 
-
-
-Credits:
------------------------
-- Twitter Bootstrap http://getbootstrap.com
-- jQuery http://jquery.org
-- Modernizr https://modernizr.com/
-- Sticky.js http://stickyjs.com/
-- JQuery easing https://github.com/gdsmith/jquery.easing
-- Bootsnav http://bootsnav.danurstrap.com/
-- Pexels https://www.pexels.com/
-- Unsplash https://unsplash.com/
-
-License:
------------------------
-This template is under Free License - https://www.themesine.com/license/
+We've developed a groundbreaking model that can instantly determine if an image contains a hidden message. With 95% accuracy, our technology analyzes digital images to detect subtle steganographic traces that are invisible to the human eye.
+Imagine being able to scan through thousands of images and identify which ones might be concealing secret information - that's exactly what our model does. Perfect for cybersecurity, digital forensics, and protecting sensitive information.
+In just milliseconds, we can tell you: Is there a secret message hiding in this image? Yes or no.
